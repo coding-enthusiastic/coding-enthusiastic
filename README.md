@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Hi, I'm Mohammath Arfath!
 
-<!--
-**coding-enthusiastic/coding-enthusiastic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate Full Stack Developer with a focus on building clean, responsive, and user-friendly web applications.
 
-Here are some ideas to get you started:
+### 👨‍💻 Tech Stack:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Frontend:** React.js, Tailwind CSS, HTML, CSS, JavaScript, TypeScript
+- **Backend:** Node.js, Express.js, MongoDB, Firebase
+- **Tools & Platforms:** Git, GitHub, Vite, Netlify, Render, VS Code, Postman
+
+### 📌 Projects:
+
+- **🔗 OLX Clone** – React + Firebase for product listings and user authentication  
+- **🔗 Netflix Clone** – React with TMDB API for movie streaming UI  
+- **🔗 E-Commerce Site** – MERN + TypeScript + TailwindCSS for full-featured shop  
+- **🔗 Expense Calculator** – React + Node app to track daily expenses efficiently  
+
+### 📫 Let's Connect:
+
+- Portfolio: https://mohammath-arfath.netlify.app/
+- LinkedIn: https://www.linkedin.com/in/mohammath-arfath-k-a-41b63821b/
+- Email: mohammatharfathka@gmail.com
+
+---
+
+💬 *“Code is not just code—it’s how we shape ideas into reality.”*
