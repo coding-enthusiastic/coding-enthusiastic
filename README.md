@@ -6,7 +6,7 @@ I'm a passionate Full Stack Developer with a focus on building clean, responsive
 
 - **Frontend:** React.js, Tailwind CSS, HTML, CSS, JavaScript, TypeScript
 - **Backend:** Node.js, Express.js, MongoDB, Firebase
-- **Tools & Platforms:** Git, GitHub, Vite, Netlify, Render, VS Code, Postman
+- **Tools & Platforms:** Git, GitHub, Vite, Netlify, Vercel, VS Code, Postman
 
 ### 📌 Projects:
 
